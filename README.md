@@ -7,3 +7,5 @@ There is a custom function/module created on Checkdet.py
 
 There is a main.py file which provides multiple URLS for scrapping and then all the data the data derived is appended to the CSV file
 AmazonscrapeData.csv
+
+There is a prototype model done to clearly depict the functionalities
