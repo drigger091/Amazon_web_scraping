@@ -1,5 +1,5 @@
 # Amazon_web_scraping
-Scraping data info from amazon and output in a CSV file
+Scraping data info from amazon and output in a CSV file using BeautifulSoup
 
 There is a base file called amazon1.py which fetches results from the website and stores the necessary information on a CSv file called AmazonscrapedData.csv
 
